@@ -11,4 +11,5 @@
 10-back -- changes working directory to the previous working directory\
 11-lists  -- lists files in working, parent and /boot directories\
 12-file_type -- displays the type of file it is provided with\
-13-symbolic_link -- creates a symbolic link to /bin/ls named __ls__
+13-symbolic_link -- creates a symbolic link to /bin/ls named __ls__\
+14-copy_html -- copies all html files from the current working directory to the parent directory
