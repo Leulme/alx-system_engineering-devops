@@ -3,3 +3,4 @@
 2-bring_me_home -- changes the current working directoty to home directoy\
 3-listfiles -- lists the files in the current working directory in long format\
 4-listmorefiles -- lists hidden files in the current working directory in long format\
+5-listfilesdigitonly -- lists hidden files in the current working directory in long format with user and group id displayed numerically\
