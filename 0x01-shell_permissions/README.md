@@ -7,3 +7,4 @@
 6-multiple_permissions -- add execute permission for the owner and group owner and read permission for everyone for the file hello\
 7-everybody -- add execute permission for the owner, the group owner and everybody\
 8-James_Bond -- give no permission to owner and group and full permission for everyone\
+9-John_Doe -- changes permission to -rwxr-x-wx for the file hello\
