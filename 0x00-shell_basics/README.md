@@ -9,4 +9,5 @@
 8-firstdelete -- deletes the file betty from /tmp/my_first_directory/ directory\
 9-firstdirdeletion  -- deletes my_firstM-directory from /tmp/ directory\
 10-back -- changes working directory to the previous working directory\
-11-lists  -- lists files in working, parent and /boot directories
+11-lists  -- lists files in working, parent and /boot directories\
+12-file_type -- displays the type of file it is provided with\
